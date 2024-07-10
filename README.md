@@ -1,6 +1,7 @@
 ### Hello, I'm Berny!
 # 💫 About Me:
- Welcome to my profile ✨! I'm a fervent programmer with keen interests in SciMl. My projects span from developing NLP models and automating visual data interpretation to applying advanced techniques in the financial sector and exploring secure data communication 💻.
+ Welcome to my profile ✨! 
+I'm a fervent programmer with keen interests in SciMl and Cryptography. My projects span from developing NLP models and automating visual data interpretation to applying advanced techniques in the financial sector and exploring secure data communication 💻.
 
 ![ezgif-4-acbcae6cae](https://github.com/BernyAngel/BernyAngel/assets/114488781/30cc0e58-8481-4706-a9fe-537f73fa14d2)
 
