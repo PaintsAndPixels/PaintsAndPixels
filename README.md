@@ -2,6 +2,8 @@
 # 💫 About Me:
  Welcome to my profile ✨! I'm a fervent programmer with keen interests in SciMl. My projects span from developing NLP models and automating visual data interpretation to applying advanced techniques in the financial sector and exploring secure data communication 💻.
 
+![ezgif-4-acbcae6cae](https://github.com/BernyAngel/BernyAngel/assets/114488781/30cc0e58-8481-4706-a9fe-537f73fa14d2)
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sakuro1796) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernyangel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bernyangel3108) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@yeeterle) 
