@@ -1,4 +1,4 @@
-### Hello, I'm Berny!
+### Hey There! 👋
 ## 💫 About Me:
  Welcome to my profile ✨! 
 I'm a fervent programmer with keen interests in NLP(Natural language processing), Computer Vision, and Cryptography. My goal is to contribute to the open source community and collaborate on projects that drive innovation. Beyond coding, I find inspiration in painting🎨, poetry🧾, cycling🚴‍♂️ and photography📷✨.
