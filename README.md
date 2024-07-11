@@ -15,8 +15,6 @@ I'm a fervent programmer with keen interests in SciMl and Cryptography. My proje
 ![](https://github-readme-stats.vercel.app/api?username=BernyAngel&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BernyAngel&theme=ambient_gradient&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BernyAngel&theme=ambient_gradient&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-   ![Snakeanimation](https://github.com/BernyAngel/BernyAngel/blob/output/github-contribution-grid-snake.svg)
- 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BernyAngel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
