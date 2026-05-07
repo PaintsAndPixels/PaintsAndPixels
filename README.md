@@ -1,7 +1,7 @@
 ### Hey There! 👋
 ## 💫 About Me:
  Welcome to my profile ✨! 
-I'm a fervent programmer with keen interests in NLP(Natural language processing), Computer Vision, and Cryptography. My goal is to contribute to the open source community and collaborate on projects that drive innovation. Beyond coding, I find inspiration in painting🎨, poetry🧾, cycling🚴‍♂️ and photography📷✨.
+I'm a fervent programmer with keen interests in NLP(Natural language processing), Computer Vision, and GeoAI. My goal is to contribute to the open source community and collaborate on projects that drive innovation. Beyond coding, I find inspiration in painting, poetry, cycling and photography.
 
 
 ![ezgif-4-acbcae6cae](https://github.com/BernyAngel/BernyAngel/assets/114488781/30cc0e58-8481-4706-a9fe-537f73fa14d2)
