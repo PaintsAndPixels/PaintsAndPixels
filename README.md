@@ -4,9 +4,6 @@
 I'm a fervent programmer with keen interests in NLP(Natural language processing), Computer Vision, and GeoAI. My goal is to contribute to the open source community and collaborate on projects that drive innovation. Beyond coding, I find inspiration in painting, poetry, cycling and photography.
 
 
-![ezgif-4-acbcae6cae](https://github.com/BernyAngel/BernyAngel/assets/114488781/30cc0e58-8481-4706-a9fe-537f73fa14d2)
-
-
 ## 🌐 Reach out to me at:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sakuro1796) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bernyangel) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@bernyangel3108) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@yeeterle) 
 
