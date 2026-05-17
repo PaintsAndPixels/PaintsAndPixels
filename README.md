@@ -1,7 +1,6 @@
 ### Hey There! 👋
 ## 💫 About Me:
- Welcome to my profile ✨! 
-I'm a fervent programmer with keen interests in NLP(Natural language processing), Computer Vision, and GeoAI. My goal is to contribute to the open source community and collaborate on projects that drive innovation. Beyond coding, I find inspiration in painting, poetry, cycling and photography.
+I'm a fervent programmer with keen interests in Computer Vision, Deep Learening, Algorithms and GeoAI. My goal is to contribute to the open source community and collaborate on projects that drive innovation. Beyond coding, I find inspiration in painting, poetry, cycling and photography.
 
 
 ## 🌐 Reach out to me at:
